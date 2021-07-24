@@ -7,9 +7,10 @@ This repository is having the codes used in BITE-2021 for Data Analysis with Pyt
 
 Here you'll learn how to
 
-1. Data Loading
-2. Data Analysis
-3. Numpy, Pandas
+1. Numpy, Pandas
+2. Data Loading
+3. Data Analysis
+4. Data Visualizations
 
 -----
 
